@@ -1,6 +1,6 @@
 ### - Gonipterus distribution models - ###
 ### - script by: Angelo Soto-Centeno - ###
-### - revised date: 5 pril 2023 - ###
+### - revised date: 5 April 2023 - ###
 
 # load packages
 library(sp) # mapping
