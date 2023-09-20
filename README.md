@@ -3,4 +3,4 @@
 
 Data and scripts of ecological niche modeling and climate envelope analysis to examine invasion of <i>Gonipterus platensis</i> in South America.
 
-V. Crespo-Pérez, J.A. Soto-Centeno, C.M. Pinto, A. Avilés, W. Pruna, C. Terán, and Á. Barragán (<i>in review</i>) Presence of the <i>Eucalyptus</i> snout beetle in Ecuador and potential invasion risk in South America. Ecol. Evol. 
+Crespo-Pérez, V., Soto-Centeno, J.A., Pinto, C. M., Avilés, A., Pruna, W., Terán, C., & Barragán,Á. (2023). Presence of the Eucalyptus snout beetle in Ecuadorand potential invasion risk in South America. Ecology and Evolution, 13, e10531. https://doi.org/10.1002/ece3.10531
